@@ -10,7 +10,7 @@ define('IMG_DIR', 'img/'); // папка с картинками
 //DB config
 define('HOST', 'localhost');
 define('USER', 'root');
-define('PASS', 'Root123!');
+define('PASS', 'R*****');
 define('DB', 'gallery');
 
 
